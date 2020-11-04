@@ -1,8 +1,8 @@
-# feednami
+### feednami
+
 fetching Top stories - Google News using feednami
 
 See live demo on [https://flyingsonu122.github.io/feednami/](https://flyingsonu122.github.io/feednami/)
-
 
 <br><br><br>
 <p align="center"> Let's have a chat on </p> 
