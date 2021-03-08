@@ -1,10 +1,11 @@
-### feednami
+### Feednami
 
-fetching Top stories from  Google News 
+> fetching Top stories from  Google News 
 
 See live demo on [https://flyingsonu122.github.io/feednami/](https://flyingsonu122.github.io/feednami/)
 
 <br><br><br>
+
 <p align="center"> Let's have a chat on </p> 
 <p align="center">
 	<a href="https://github.com/flyingsonu122"><img src="https://img.shields.io/github/followers/flyingsonu122.svg?label=GitHub&style=social" alt="GitHub"></a>
